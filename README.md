@@ -21,6 +21,7 @@ A curated list of awesome fabrication resources.
 ## 3D Viewer
 
 - [3dviewer.net] - Online 3D Model Viewer.
+- [CADProps] (commercial) - Browser-based STEP viewer with geometry measurements and section views; viewing requires no account.
 - [gcode-viewer] - Web-based 3D viewer for GCode files.
 - [githubiverse] - Template for Thingiverse like 3d-file hosting.
 - [JSModeler] - JavaScript framework to create and visualize 3D models.
@@ -28,6 +29,7 @@ A curated list of awesome fabrication resources.
 - [va3c/viewer] - 3D Model Viewer with Three.js (buggy).
 
 [3dviewer.net]: https://3dviewer.net
+[CADProps]: https://www.cadprops.com/tools/step-viewer/
 [gcode-viewer]: https://github.com/joewalnes/gcode-viewer
 [githubiverse]: https://github.com/garyhodgson/githubiverse-template
 [JSModeler]: https://github.com/kovacsv/JSModeler
